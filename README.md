@@ -6,6 +6,14 @@ This is the source code & repository for the PixBike project for the course of A
 
 **Colab:** [PixBike](https://colab.research.google.com/github/ozankaraali/pixbike/blob/main/PixBike.ipynb)
 
+## Workflow (Pix2Pix):
+
+![Workflow](assets/flow.png)
+
+## Sample Result:
+
+![Sample Result](assets/results.png)
+
 ## References
 
 - M. Szell, S. Mimar, T. Perlman, G. Ghoshal and R. Sinatra,
