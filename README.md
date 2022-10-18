@@ -14,6 +14,8 @@ This is the source code & repository for the PixBike project for the course of A
 
 ![Sample Result](assets/results.png)
 
+You can check the [valid training run](https://wandb.ai/ozankaraali/CycleGAN-and-pix2pix/runs/2fks0a12), the [test run for 55th epoch](https://wandb.ai/ozankaraali/CycleGAN-and-pix2pix/runs/ie1bhcpn) and all the runs can be found in the [W&B dashboard](https://wandb.ai/ozankaraali/CycleGAN-and-pix2pix).
+
 ## References
 
 - M. Szell, S. Mimar, T. Perlman, G. Ghoshal and R. Sinatra,
